@@ -15,7 +15,6 @@ int main()
         scanf("%d", &queues[i]);
         visited[i] = 0;
     }
-
     printf("Enter the initial head position: ");
     scanf("%d", &head);
 
